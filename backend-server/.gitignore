@@ -1,1 +1,11 @@
-node_modules
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.vscode/
+.idea/
+dist/
+build/
+*.egg-info/
